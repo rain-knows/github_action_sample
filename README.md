@@ -1,0 +1,2 @@
+# github_action_sample
+用于实现一些用github_action实现的自动化脚本
